@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -11,54 +11,31 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Texas Instruments
+    url: "https://ti.com"
+    location: Bengaluru, India
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: I worked in the Data Analytics division of this major semiconductor company for about 3 years. 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Data Scientist
+    start: Mar 2021
+    end: Jun 2022
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - As a Data Scientist, I spearheaded the development of end-to-end data analytical solutions for the customer operations team, efficiently handling 2 billion rows of weekly data. 
+    - I successfully implemented a scalable Spark Streaming/Kafka framework to process real-time data from 15 industrial pump signals. Utilizing an LSTM neural network model, I effectively detected factory production line failures, leading to substantial cost savings of $xM per year by reducing downtime, scrap, and repair costs. 
+    - This involved data cleansing, provisioning, curation, and visualization, enabling the monitoring of demand-billing signals and optimizing the supply chain. 
+    - Additionally, I collaborated with stakeholders from various business domains such as pricing, customer operations, supply chain, sales, manufacturing, and online business.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Data Analyst
+    start: Jun 2019
+    end: Feb 2021
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - In my role as a Data Analyst, I executed the implementation of a data pipeline that aggregated data from multiple sources and developed a suite of Spotfire dashboards for the pricing team. 
+    - My responsibilities encompassed creating PL/SQL scripts, Spark, and Kafka scripts, while building data visualizations and BI reports in SAP BusinessObjects, Tableau, and Spotfire that were user-friendly and provided valuable insights into complex data. 
+    - Throughout my tenure, I collaborated closely with stakeholders from diverse business domains, including pricing, customer operations, supply chain, sales, manufacturing, and online business.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Internship
+    start: Jun 2019
+    end: Jan 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Developed a full-stack web application (using Java, Spring MVC, HTML, JavaScript, AJAX) for finance team to automate the reconciliation process for filling tax returns

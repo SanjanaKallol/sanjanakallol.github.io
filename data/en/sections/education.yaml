@@ -57,6 +57,7 @@ degrees:
     - name: Artificial Intelligent
   extracurricularActivities: #(optional)
   - Badminton
+  - Dance
 # - name: Higher Secondary School Certificate
 #   icon: fa-university
 #   timeframe: 2010-2012

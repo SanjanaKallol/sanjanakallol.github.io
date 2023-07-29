@@ -3,16 +3,16 @@ name: "Sanjana Kallol"
 nickname: "Sanjana"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/jessica.png"
+image: "images/author/sanjana.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "snkallol@ucdavis.edu"
-  github: "https://github.com/SanjanaKallol"
-  linkedin: "https://github.com/SanjanaKallol"
+  github: "SanjanaKallol"
+  linkedin: "SanjanaKallol"
 
 # some summary about what you do
 summary:
   - I am a Data Scientist
   - I can tell a story from your data
-  - I am interested in NLP, deep learning, LLMs and Generative AI
+  - I am interested in NLP, Deep Learning, LLMs and Generative AI
   
