@@ -2,4 +2,6 @@ module github.com/sanjanakallol/sanjanakallol.github.io
 
 go 1.19
 
-require github.com/hugo-toha/toha/v4 v4.0.0-20230127171959-e5fcc95e8b8d // indirect
+require (
+	github.com/hugo-toha/toha/v3 v3.8.1-0.20221227215146-65c71f88ea06 // indirect
+)
