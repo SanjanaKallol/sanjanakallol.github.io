@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: Certificates
   id: accomplishments
   enable: true
   weight: 8
@@ -11,36 +11,16 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Amazon Web Services Cloud Practitioner
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Amazon Web Services
+    url: https://aws.amazon.com/certification/certified-cloud-practitioner/
+  courseOverview: With the AWS Certified Cloud Practitioner certification, I gained foundational knowledge about AWS and the cloud in general, so I'm better prepared to leverage the cloud for my work.
+  certificateURL: "https://www.credly.com/badges/9b08b37a-264d-47ac-b70b-02a1f987bcdc/linked_in?t=ru4fm3"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Tableau Desktop Specialist
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
- 
-
+    name: Tableau
+    url: https://www.tableau.com/learn/certification/desktop-specialist
+  courseOverview: "Through this certification, I learned the ins and outs of Tableau for data visualization"
+  certificateURL: "https://www.credly.com/badges/3e3bb860-a56c-4e09-9b36-beac637d2f94/linked_in?t=rtplv4"

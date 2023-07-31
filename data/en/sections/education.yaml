@@ -19,12 +19,20 @@ degrees:
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
-    collapseAfter: 3
+    collapseAfter: 7
     courses:
-    - name: Data Structures and Algorithm
-    - name: Network Security
-    - name: Operating System
-    - name: Artificial Intelligent
+    - name: Big Data Analytics
+    - name: Statistical Exploration and Reasoning
+    - name: Data Visualization
+    - name: Data Management
+    - name: Analytic Decision Making
+    - name: Application Domains
+    - name: Information, Insight and Impact
+    - name: Advanced Statistics
+    - name: Organizational Issues in Implementing Analytics
+    - name: Data Design & Representation
+    - name: Machine Learning
+    - name: Practicum
 - name: Post Graduate Diploma in Machine Learning and Artifical Intelligence
   icon: fa-graduation-cap
   timeframe: 2020-2021
@@ -34,12 +42,15 @@ degrees:
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
-    collapseAfter: 3
+    collapseAfter: 7
     courses:
-    - name: Data Structures and Algorithm
-    - name: Network Security
-    - name: Operating System
-    - name: Artificial Intelligent
+    - name: Exploratory Data Analysis
+    - name: Inferential Statistics
+    - name: Hypothesis Testing
+    - name: Machine Learning
+    - name: Natural Language Processing
+    - name: Deep Learning
+    - name: Reinforcement Learning
 - name: Bachelor of Engineering in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2015-2019
@@ -49,12 +60,12 @@ degrees:
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
-    collapseAfter: 3
+    collapseAfter: 4
     courses:
-    - name: Data Structures and Algorithm
-    - name: Network Security
-    - name: Operating System
-    - name: Artificial Intelligent
+    - name: Data Structures
+    - name: Distributed Systems
+    - name: Python Programming
+    - name: Advanced Algorithms
   extracurricularActivities: #(optional)
   - Badminton
   - Dance
