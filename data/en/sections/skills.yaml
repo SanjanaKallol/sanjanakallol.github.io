@@ -12,20 +12,20 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Exploratory Data Analysis
-  summary: "With strong statistical knowledge, proficiency in data manipulation and visualization at scale, I am adept at applying various Exploratory Data Analysis techniques and telling data-driven stories."
+  summary: "With strong statistical knowledge and proficiency in data manipulation and visualization at scale, adept at applying various EDA techniques, including data sourcing, cleaning, univariate, bivariate, and segmented analysis, and derived metrics. Skilled at uncovering valuable insights from datasets and crafting compelling data-driven stories to empower informed decision-making"
   
 - name: Machine Learning
-  summary: "I'm knowledgeable about latest Machine learning techniques using which we can build predictive models and uncover hidden patterns, and provide personalized recommendations across various industries and domains."
+  summary: "In this realm, have gained valuable experience through hands-on projects covering a wide array of techniques including advanced regression, classification, clustering, Principal Component Analysis (PCA), random forest, boosting, neural networks, Natural Language Processing (NLP)"
 
 - name: A/B testing
-  summary: "Designing, conducting and analyzing controlled experiments to compare variations and make data-drive decisions"
+  summary: "Skilled at designing, conducting and analyzing controlled experiments to compare variations, infer causality and make data-drive decisions."
 
 - name: Anomaly and Fraud detection
-  summary: ""
+  summary: "Acquainted in credit card fraud detection by analyzing data and patterns of anomalies and suspicious behavior. Proficient at anomaly detection in manufacturing production lines that involves identifying deviations and irregularities in factory equipments in order to enable proactive maintenance and optimization, ensuring efficient and cost-effective manufacturing operations."
 
 - name: Churn Analysis
-  summary: ""
+  summary: "Practiced at the investigation of customer churn patterns in the telecom industry as well as the employee churn rate, aiming to comprehend the underlying factors and devise effective strategies to minimize attrition and enhance retention for both customers and employees"
 
 - name: Big Data Management
-  summary: ""
+  summary: "A proven track record with years of experience in leveraging big data technologies including Apache Hadoop, Apache Spark, NoSQL databases, Apache Kafka, Apache Hive, Impala, and cloud-based data storage solutions."
 

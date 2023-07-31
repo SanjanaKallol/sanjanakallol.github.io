@@ -18,15 +18,35 @@ buttons:
   filter: "nlp"
 - name: Recommendation systems
   filter: "recsys"
+- name: "Deep Learning"
+  filter: "dl"
 
 # your publications
 publications:
+- title: Sentiment-based Product Recommendation System
+  paper:
+    summary: Performed sentiment analysis on 100K+ Amazon product reviews using classification algorithms (logistic regression, random forest, XGBoost, and Naive Bayes). Created recommendation systems using user-based and item-based collaborative filtering that provided top 20 product suggestions for each user. Fine-tuned the recommendations using the sentiment analysis model to suggest the top 5 products with the most positive ratings.
+  tags: ["Recommendation systems","Sentiment Analysis","NLP"]
+  categories: ["recsys","nlp"]
+
+
 - title: Predictive Analysis for Customer Surveys
   paper:
     summary: As part of the MSBA practicum coursework, collaborated with C-suite executives at the leading change management consulting firm to implement predictive analytics for customer data. Managed an end-to-end process of translating user requirements from business language into functional Python code. Utilized statistical modeling techniques to synthesize data reflective of real-world and accurately replicate human expert judgment for precise predictive analysis. Developed an interactive simulation testbed to visualize complex interactions among different corporate roles and functions.
+  tags: ["Data Visualization"]
   categories: ["dataviz"]
-  tags: ["Data Visualization"]
-- title: Predictive Analysis for Customer Surveys
+
+- title: Chatbot for Restaurant Search
   paper:
-    summary: As part of the MSBA practicum coursework, collaborated with C-suite executives at the leading change management consulting firm to implement predictive analytics for customer data. Managed an end-to-end process of translating user requirements from business language into functional Python code. Utilized statistical modeling techniques to synthesize data reflective of real-world and accurately replicate human expert judgment for precise predictive analysis. Developed an interactive simulation testbed to visualize complex interactions among different corporate roles and functions.
-  tags: ["Data Visualization"]
+    summary: Created a conversational chatbot that facilitates restaurant discovery in Tier-1 and Tier-2 cities. Leveraging the rasa-nlu-trainer for NLU training and seamlessly integrating the Zomato API for data retrieval and email notifications, the chatbot adeptly responds to and handles various functionalities, including booking rooms, requesting room cleaning, addressing frequently asked questions (FAQs), and warmly greeting users. This innovative chatbot enhances user experiences, providing convenient and personalized assistance in exploring and enjoying dining options in diverse cities.
+  tags: ["NLP", "RASA"]
+  categories: ["nlp"]
+
+- title: Deep Learning for Gesture Recognition
+  paper:
+    summary: Built neural network model to recognize five hand gestures for smart TV control using Conv2D and RNN architecture.
+  tags: ["Deep Learning","CNN", "RNN"]
+  categories: ["dl"]
+
+
+  
